@@ -1,4 +1,4 @@
-"# mocha_cheat_sheet" 
+# mocha_cheat_sheet
 
 1. list of optional parameters (options) that the $ mocha [options] command takes:
 
